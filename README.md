@@ -8,5 +8,6 @@ acting as a proxy between the app and network. For example, a service worker
 can intercept network requests and serve cached resources if the network is 
 unavailable, allowing the app to remain functional offline instead of failing 
 completely. 
-
+## Page
+[Deployed Page](https://michael-marras.github.io/Lab8_Starter/)
 ![Alt Text](pwa.png)
